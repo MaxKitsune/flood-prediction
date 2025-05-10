@@ -1,10 +1,10 @@
-# Machine Learning University Project
+# Flood Prediction: A machine learning university project
 
 ## Project Overview
 
-This repository contains the work for a university project in the "Machine Learning" course. The project was a collaborative effort, focusing on applying various machine learning models to a dataset for predictive analysis.
+This repository contains the work for a university project in the "Machine Learning" course. The project was a collaborative effort, focusing on applying various machine learning models to a dataset for predictive analysis, specifically targeting flood prediction.
 
-The primary goals included data preparation, implementing and evaluating different models such as linear regression, regression trees, and neural networks, and comparing their performance.
+The primary goals included data preparation, which involved various mathematical and linear methods for cleaning, transforming, and feature engineering. Subsequently, different models such as linear regression, regression trees, and neural networks were implemented and evaluated for their performance in predicting flood-related outcomes.
 
 **Author's Note:** My specific contributions to this project involved the data preparation phase, the development and analysis of the regression tree model, and the implementation and exploration of the neural network.
 
@@ -12,7 +12,7 @@ The primary goals included data preparation, implementing and evaluating differe
 
 The repository is organized as follows:
 
-*   `1_data_preparation.ipynb`: Jupyter Notebook detailing the initial data loading, cleaning, preprocessing, and exploratory data analysis (EDA).
+*   `1_data_preparation.ipynb`: Jupyter Notebook detailing the initial data loading, cleaning, application of mathematical/linear preprocessing techniques (e.g., normalization, feature scaling), and exploratory data analysis (EDA).
 *   `2_Linear_Model.ipynb`: Jupyter Notebook covering the implementation, training, and evaluation of a linear regression model.
 *   `3_regression_tree.ipynb`: Jupyter Notebook focused on the regression tree model, including its development, tuning, and performance analysis.
 *   `4_train_nn.py`: Python script used for training the neural network model.
