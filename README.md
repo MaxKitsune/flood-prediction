@@ -29,6 +29,7 @@ The project primarily utilizes the following technologies:
 *   **NumPy:** For numerical computations.
 *   **Scikit-learn:** For implementing linear models, regression trees, and other machine learning utilities (e.g., metrics, model selection).
 *   **TensorFlow/Keras or PyTorch:** (Assumed for the neural network implementation) For building and training neural networks.
+*   **External AI GPU Server:** Used to run intensive training tasks and reduce experiment turnaround times.
 
 ## Key Learnings
 
@@ -44,6 +45,7 @@ This project provided valuable experience in:
 *   **Model Evaluation & Comparison:** Using appropriate metrics to assess model performance and compare the effectiveness of different approaches.
 *   **Collaborative Development:** Working in a team on a shared codebase and project goals.
 *   **Scientific Computing Libraries:** Proficiency in using Python libraries essential for data science and machine learning.
+
 
 ## Data
 
