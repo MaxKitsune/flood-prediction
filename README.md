@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This repository contains the work for a university project in the "Machine Learning" course. The project was a collaborative effort, focusing on applying various machine learning models to a dataset for predictive analysis, specifically targeting flood prediction.
+This repository contains the work for a university project in the "Machine Learning" course. The project was a **collaborative effort**, focusing on applying **various machine learning models** to a dataset for predictive analysis, specifically targeting flood prediction.
 
-The primary goals included data preparation, which involved various mathematical and linear methods for cleaning, transforming, and feature engineering. Subsequently, different models such as linear regression, regression trees, and neural networks were implemented and evaluated for their performance in predicting flood-related outcomes.
+The primary goals included **data preparation**, which involved various **mathematical and linear methods** for cleaning, transforming, and feature engineering. Subsequently, different models such as **linear regression, regression trees, and neural networks** were implemented and **evaluated** for their performance in predicting flood-related outcomes.
 
 **Author's Note:** My specific contributions to this project involved the data preparation phase, the development and analysis of the regression tree model, and the implementation and exploration of the neural network.
 
