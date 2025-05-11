@@ -19,7 +19,7 @@ The repository is organized as follows:
 *   `3_regression_tree.ipynb`: Jupyter Notebook focused on the regression tree model, including its development, tuning, and performance analysis.
 *   `4_train_nn.py`: Python script used for training the neural network model.
 *   `5_Neuronales_Netz.ipynb`: Jupyter Notebook for the analysis, evaluation, and fine-tuning of the trained neural network. (Note: "Neuronales Netz" is German for Neural Network).
-*   `model_results.csv`: A CSV file storing the performance metrics and results from the different models evaluated.
+*   `model_results.csv`: A CSV file storing the performance metrics and results from the different neuronal network models evaluated.
 
 ## Tech Stack
 
