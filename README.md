@@ -7,6 +7,7 @@ This repository contains the work for a university project in the "Machine Learn
 The primary goals included **data preparation**, which involved various **mathematical and linear methods** for cleaning, transforming, and feature engineering. Subsequently, different models such as **linear regression, regression trees, and neural networks** were implemented and **evaluated** for their performance in predicting flood-related outcomes.
 
 **Author's Note:** My specific contributions to this project involved the data preparation phase, the development and analysis of the regression tree model, and the implementation and exploration of the neural network models.
+
 Additionally, the comments and other documentation in the code were translated from German to English. Some translation errors may still be present.
 
 ## Project Structure
